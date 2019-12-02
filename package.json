@@ -1,0 +1,22 @@
+{
+  "name": "functional_javascript",
+  "version": "1.0.0",
+  "description": "함수형 자바스크립트 예제 실습",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/Yesdoing/fp-javascript.git",
+  "author": "Jane Lee <Yesdoing13@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yesdoing/fp-javascript/issues"
+  },
+  "homepage": "https://github.com/Yesdoing/fp-javascript#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
