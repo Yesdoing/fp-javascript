@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/Yesdoing/fp-javascript#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
